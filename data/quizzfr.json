@@ -1,0 +1,379 @@
+[{
+    "1": "Egorger un ami",
+    "2": "Boire du Wisky frelaté",
+    "3": "Etudiant",
+    "4": "Fou de Dieu",
+    "question": "Que signifie Taliban ?",
+    "response": 3
+}, {
+    "1": "Abel",
+    "2": "Cain",
+    "3": "Filip",
+    "4": "Adel",
+    "question": "Selon la bible, qui a éffectué le premier meutre ?",
+    "response": 2
+}, {
+    "1": "Télé poche",
+    "2": "Télé star",
+    "3": "Télé Z",
+    "4": "TF1",
+    "question": "Quel programme TV coute 0.34 Euros ?",
+    "response": 3
+}, {
+    "1": 1500,
+    "2": 1920,
+    "3": 2400,
+    "4": "1 000 000",
+    "question": "Combien d’heures dure un tour du monde en 80 jours?",
+    "response": 2
+}, {
+    "1": "Le schtroumpf à lunettes",
+    "2": "Le schtroumpf cosmonaute",
+    "3": "Le grand schtroumpf",
+    "4": "Le schtroumpf qui n’existe pas",
+    "question": "Lequel de ces schtroumpfs n’existent pas ?",
+    "response": 4
+}, {
+    "1": "Comedien cocainoman au chomage",
+    "2": "Acteur porno au Venezuela",
+    "3": "Vigil d’un parking de super marché",
+    "4": "Preneur d’otages",
+    "question": "Quel est la nouvelle profession de Willy l’ex de «Arnold et Willy» ?",
+    "response": 3
+}, {
+    "1": "Flic",
+    "2": "Astrophysicien",
+    "3": "Brancardier",
+    "4": "David tout court",
+    "question": "Avant de devenir David du Loft, David était ?",
+    "response": 4
+}, {
+    "1": "Les adolescents",
+    "2": "Les maniaques de la guerre 14-18",
+    "3": "Les gens qui ne travaillent que l’après midi",
+    "4": "14-18 n’existe pas",
+    "question": "14-18 est un journal pour ?",
+    "response": 2
+}, {
+    "1": "Une passe en cloche au pied",
+    "2": "Une passe avec la main en forme de panier de pelote basque",
+    "3": "Un coup de poing en plein dans la carotide",
+    "4": "Une bagarre dans les vestiaires après le match",
+    "question": "Au rugby, une chistera est ?",
+    "response": 2
+}, {
+    "1": "Une passe en avant",
+    "2": "La troisième mi-temps",
+    "3": "Faire mine de sodomiser son adversaire",
+    "4": "Ni 1, ni 2, ni 3 donc 4",
+    "question": "Au rugby, la moursette est ?",
+    "response": 4
+}, {
+    "1": "Actualité de Gerard",
+    "2": "Elevage des porcidés",
+    "3": "Les differentes pratiques du Fiss Fucking",
+    "4": "N’existe pas",
+    "question": "Porc Magazine est un magazine qui traite de ?",
+    "response": 2
+}, {
+    "1": "Des amants romantiques",
+    "2": "Des mangeurs de grenouilles",
+    "3": "Des crasseux peu regardant sur l’hygiène",
+    "4": "1, 2, 3, et donc 4",
+    "question": "Pour l’américain moyen, les français sont ?",
+    "response": 4
+}, {
+    "1": "Les Destiny’s child",
+    "2": "Les afrodit child",
+    "3": "Les hermaphrodit child",
+    "4": "Les popies",
+    "question": "Avant sa carrière solo, dans quel groupe chantait Demis Roussos ?",
+    "response": 2
+}, {
+    "1": "Une huitre",
+    "2": "Une coline",
+    "3": "Une chanson que scande les Rugbymans Neo-Zelandais avant un match",
+    "4": "Rien du tout, je me suis endormi sur mon clavier",
+    "question": "En Nouvelle-Zelande, qu’est ce que le Topatakawataguantatmatéatout...?",
+    "response": 2
+}, {
+    "1": "Sa femme",
+    "2": "Michel Blanc",
+    "3": "Marcel Desailly",
+    "4": "Franck Lebeuf",
+    "question": "Qui a remplacé Laurent Blanc pour la finale de la coupe du monde en 1998 ?",
+    "response": 4
+}, {
+    "1": "Bac sport extrème",
+    "2": "Bac art du cirque",
+    "3": "Bac gynecologie",
+    "4": "Bac Britney Spears",
+    "question": "Quel nouveau bac a été créé en 2001",
+    "response": 2
+}, {
+    "1": "Pour avoir chroniquer 13252 livres sans en avoir lu aucun",
+    "2": "Pour avoir réussi à mettre un enfant avec un survetement dans un sac de sport",
+    "3": "Pour avoir réaliser 76 liaisons multiplex dans un même journal télévisé",
+    "4": "Pour la qualité de ces trucages dans son interview avec Fidel Castro",
+    "question": "Pour quelle raison PPDA possède une sorte de record à la télévision ?",
+    "response": 3
+}, {
+    "1": "Vendeur d’armes en petite surface",
+    "2": "Quincailler",
+    "3": "V.R.P chez Ricard",
+    "4": "Prof de stretching",
+    "question": "Quel était le précédent métier de Charles Pasqua ?",
+    "response": 3
+}, {
+    "1": "Une zone où l’on boit le pastis",
+    "2": "La seule zone où il y a 51 feux rouges",
+    "3": "Une base américaine militaire ultra-secrète créé en 1954",
+    "4": "Une association d’ancien alcoolique",
+    "question": "Qu’est ce que la zone 51 ?",
+    "response": 3
+}, {
+    "1": "Jason",
+    "2": "Damien",
+    "3": "Jean Marie Le Pen",
+    "4": "Jordy",
+    "question": "Dans le film la «malédiction», l’envoyé du diable, le petit garcon envoyé par Satan pour prendre le pouvoir sur Terre s’appelle :",
+    "response": 2
+}, {
+    "1": "Superman",
+    "2": "Super Gilbert Montagné",
+    "3": "DareDevil",
+    "4": "Batman",
+    "question": "Quel est le nom du super héros aveugle ?",
+    "response": 3
+}, {
+    "1": "Sheila",
+    "2": "Eurostar",
+    "3": "Joey Star",
+    "4": "Une femme qui n’était pas la Sheila",
+    "question": "Avec qui s’est marié Ringo Star ?",
+    "response": 4
+}, {
+    "1": "Le paradis pour les gentils et l’enfer pour les méchants",
+    "2": "Rien",
+    "3": "On se transforme en fleur",
+    "4": "On sais pas",
+    "question": "Il y a deux choses auquelles on ne peut pas échapper, la mort et les impôts, mais heureusement après la mort il y a :",
+    "response": 4
+}, {
+    "1": "Porte malheur",
+    "2": "Porte serviette",
+    "3": "Porte lumière",
+    "4": "Porte de la Chapelle",
+    "question": "Que veut dire Lucifer en latin ?",
+    "response": 3
+}, {
+    "1": "13 ans mais c’est jeune",
+    "2": "15 ans mais c’est encore jeune",
+    "3": "18 ans à sa majorité",
+    "4": "quand son mari le décide",
+    "question": "En France à quel âge une femme peut elle se marier ?",
+    "response": 2
+}, {
+    "1": "Clark Gable",
+    "2": "Franklin Roosevelt",
+    "3": "Adolf Hitler",
+    "4": "Woody Wood Pecker",
+    "question": "En 1938, qui était l’homme de l’année du Times ?",
+    "response": 3
+}, {
+    "1": "Roger Moor",
+    "2": "Neil Connery, le frère inconnu de Shean Connery",
+    "3": "Karim Brosman, le cousin marocain de Pears Brosman",
+    "4": "Roger Hanin, le Roger Hanin",
+    "question": "Dans «opération frère cadet» de Alberto De Martino, qui interprète le rôle de l’agent secret ?",
+    "response": 2
+}, {
+    "1": "Canal+",
+    "2": "Le théatre de l’Olympia",
+    "3": "SFR",
+    "4": "ni 1, ni 2, ni 3, donc 4 ce type possède le monde, vous entendez le monde...",
+    "question": "Une seule de ces entreprises n’appartient pas directement ou indirectement à Jean Marie Messier, le patron de Vivendi Universal laquelle ?",
+    "response": 4
+}, {
+    "1": "le bat-balai",
+    "2": "le bat-aspirateur",
+    "3": "le bat-banc de muscu",
+    "4": "La batmobile",
+    "question": "Que trouve t-on dans la batcave ?",
+    "response": 4
+}, {
+    "1": "Alea jacta es",
+    "2": "Dura lex ced lex",
+    "3": "Tu quoque mi fili",
+    "4": "Vous êtes une belle bande d’enfoirus",
+    "question": "Quels ont été les derniers mots de Jules César alors qu’il se faisait poignarder par ses sénateurs ?",
+    "response": 3
+}, {
+    "1": "Me mettre une mandale",
+    "2": "Me faire des chatouilles",
+    "3": "Me manger les crottes de nez",
+    "4": "Livre un livre de 200 pages en moins de 30 secondes",
+    "question": "Qu’est ce que je ne peux pas faire mais rassurer vous, vous non plus ?",
+    "response": 2
+}, {
+    "1": "Choupo-Choupo",
+    "2": "Tsaf-Tsouf",
+    "3": "Fut-Fut",
+    "4": "Tchouko-Tchoukou",
+    "question": "En France quand les enfants font le bruit du train, ils font tchou-tchou, mais en Swaili ils font ?",
+    "response": 4
+}, {
+    "1": "goudji-goudji-goudji",
+    "2": "tiki-tiki-tiki",
+    "3": "kilé-kilé-kilé",
+    "4": "Je vais t’enculer-culer-culer",
+    "question": "En France quand on fait des chatouilles on fait guili-guili, mais en Grec on dit ?",
+    "response": 2
+}, {
+    "1": "Je suis noir et j’en suis fier",
+    "2": "J’ai ouvert ma réserve",
+    "3": "Je n’ai plus de réserve",
+    "4": "J’ai envi de faire caca",
+    "question": "En plongée que signifie le point fermé face paume à la hauteur du visage ?",
+    "response": 2
+}, {
+    "1": "Alain Madelin",
+    "2": "Brunot Megret",
+    "3": "Jean Marie Le Pen",
+    "4": "Peu importe",
+    "question": "Un avion qui transporte Alain Madelin, Bruno Megret et Jean Marie Le Pen vole à 5000 pieds d’altitude. C’est Mohamed Youssef le pilote qui un peu énervé les jette dehors sans parachute, qui s’écrase en premier ?",
+    "response": 4
+}, {
+    "1": "La drogue",
+    "2": "Le J de leur prénom",
+    "3": "Ils sont tous morts au même âge à 27 ans",
+    "4": "1, 2, 3, donc 4",
+    "question": "Quel est le point commun entre Janis Joplin, Jimy Hendrix et Jim Morrison ?",
+    "response": 4
+}, {
+    "1": "Marcher la nuit dans Montmatre",
+    "2": "Plonger la main dans un sac de graines",
+    "3": "Faire du manège dans les fêtes forraines",
+    "4": "Fumer un petit joint de temps en temps",
+    "question": "Amelie Poulain aime ?",
+    "response": 2
+}, {
+    "1": "Lucas",
+    "2": "Valentin",
+    "3": "Kevin",
+    "4": "Zinedine Zidane",
+    "question": "Quel est le prénom masculin le plus donné en France en 2001 pour les nouveaux nés ?",
+    "response": 1
+}, {
+    "1": "Camille",
+    "2": "Britney",
+    "3": "Léa",
+    "4": "Steevy",
+    "question": "Quel est le prénom féminin le plus donné en France en 2001 pour les nouveaux nés ?",
+    "response": 1
+}, {
+    "1": "Les nouilles cuisent au jus de canne",
+    "2": "Le pont neuf fait soixante pieds",
+    "3": "Les laborieuses populations de Cap",
+    "4": "Il y a deux couilles sous la bite",
+    "question": "Ok c’est lourd mais j’aime bien, où n’y a t-il pas de contrepetrie ?",
+    "response": 4
+}, {
+    "1": "Rudolf Diesel a inventé le diesel",
+    "2": "Friedrich Ludwig Doberman a inventé le Doberman",
+    "3": "Samuel Morce a inventé le morce",
+    "4": "Sebastien Levrette a inventé la levrette",
+    "question": "Un seule de ces propositions est fausse :",
+    "response": 1
+}, {
+    "1": "Les vers de terre",
+    "2": "les Fourmis",
+    "3": "Les mouches",
+    "4": "Les éléphants mais ils se cachent",
+    "question": "Quels sont les animaux les plus présents sur Terre ?",
+    "response": 1
+}, {
+    "1": "Une bible",
+    "2": "Les lauriers de Cesar",
+    "3": "Un album d’asterix",
+    "4": "Leurs testicules *",
+    "question": "Dans l’antiquité, sur quoi les romains prettaint-ils serment ?",
+    "response": 4
+}, {
+    "1": "passe muraille",
+    "2": "passe temps",
+    "3": "passe partout",
+    "4": "passe le oinj",
+    "question": "Qui est le valet de Phileas Phog ?",
+    "response": 3
+}, {
+    "1": "Jean Marc Bar a tenu un bar",
+    "2": "Angelina Joli est jolie",
+    "3": "Claude Moine a été moine",
+    "4": "Jean Pierre Pernod ne boit que du ricard",
+    "question": "Laquelle de ces 4 affirmations est vraie ?",
+    "response": 2
+}, {
+    "1": "Le roi de carreau",
+    "2": "Le valet de pique",
+    "3": "Le joker",
+    "4": "L’as de trèfle",
+    "question": "En ce moment, batman est en embrouille avec ?",
+    "response": 3
+}, {
+    "1": "Cachou",
+    "2": "Olive",
+    "3": "Ophelie Winter",
+    "4": "Peggy",
+    "question": "En ce moment Popeye sort avec ?",
+    "response": 2
+}, {
+    "1": "Le musée du cafard",
+    "2": "Le musée Jacques Chirac",
+    "3": "Le musée des déchets",
+    "4": "Le musée des C.R.S",
+    "question": "Quel musée n’existe pas ?",
+    "response": 2
+}, {
+    "1": "Le vrai nom de Dick Rivers",
+    "2": "Le vrai nom de Chantal Goya",
+    "3": "Le vrai nom de Garcy More",
+    "4": "Le type qui est en cuisine",
+    "question": "Qui est William Guiton ?",
+    "response": 4
+}, {
+    "1": "J’ai mangé du schtroumph à midi",
+    "2": "J’ai schtroumphé du poisson à midi",
+    "3": "J’ai mangé du poisson à schtroumph",
+    "4": "J’ai schtroumphé du schtroumph à schtroumph",
+    "question": "Comment dit-on j’ai mangé du poisson à midi en schtroumph ?",
+    "response": 2
+}, {
+    "1": "Ohapo à la place du o",
+    "2": "Vous vous foutez de la gueule des Norvégiens",
+    "3": "Vous avez froid en permanence alors qu’il fait 40 degrès",
+    "4": "Vous êtes une otage qui veut coucher avec ses ravisseurs",
+    "question": "Si vous êtes atteints du syndrome de Stockolm vous dites ?",
+    "response": 4
+}, {
+    "1": "A grimper sur le toit de Mr Beaufort",
+    "2": "A mesurer l’odeur d’un fromage comme le beaufort",
+    "3": "A mesurer le force des vents",
+    "4": "A remplacer l’échelle de Richter quand elle est cassée",
+    "question": "A quoi sert l’échelle de Beaufort ?",
+    "response": 3
+}, {
+    "1": "Saurin c’était déjà pris",
+    "2": "Guiton aussi",
+    "3": "Parce que c’est la contraction de Marie Shelley qui a écrit Frankeinstein et de Shiller le poète allemand",
+    "4": "Parce que c’est son vrai nom",
+    "question": "William Sheller s’appelle ainsi parce que ?",
+    "response": 3
+}, {
+    "1": "Vogue homme",
+    "2": "Votre beauté",
+    "3": "Pif Gadget",
+    "4": "Francois Mitterand magazine",
+    "question": "De quel magazine Francois Mitterand a t-il été rédacteur en chef ?",
+    "response": 2
+}]

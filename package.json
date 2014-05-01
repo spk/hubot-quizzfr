@@ -1,0 +1,15 @@
+{
+  "name": "hubot-quizzfr",
+  "version": "0.0.1",
+  "description": "French quizz",
+  "main": "./lib/index.coffee",
+  "author": "Laurent Arnoud",
+  "license": "BSD",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/spk/hubot-quizzfr.git"
+  },
+  "dependencies": {
+    "lodash": ""
+  }
+}
