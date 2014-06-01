@@ -3,6 +3,7 @@
 #
 # Commands:
 #   hubot quizzfr - Start quizz in french
+#   hubot score - Show quizz score
 
 _ = require 'lodash'
 fs = require 'fs'
@@ -22,16 +23,19 @@ class Question
       result.push "#{k}:「#{v}」"
     result.join(' ')
 
-  solvers: ->
-    solvers = []
+  getSolvers: ->
+    @solvers = []
     for solver, answerIndex of @answers
-      solvers.push solver if answerIndex is "#{@data.response}"
-    if solvers.length is 0
+      @solvers.push solver if answerIndex is "#{@data.response}"
+    if @solvers.length is 0
       'No one found.'
     else
-      "Winners: #{solvers.join(', ')}"
+      "Winners: #{@solvers.join(', ')}"
 
 module.exports = (robot) ->
+  robot.brain.on 'loaded', =>
+    robot.brain.data.quizzfr_score ||= {}
+
   currentQuestion = null
 
   robot.hear /^\s*[1-4]\s*$/, (msg) ->
@@ -47,7 +51,10 @@ module.exports = (robot) ->
     msg.send currentQuestion.answerList()
     setTimeout ->
       robot.messageRoom currentQuestion.room, currentQuestion.rightAnswer()
-      robot.messageRoom currentQuestion.room, currentQuestion.solvers()
+      robot.messageRoom currentQuestion.room, currentQuestion.getSolvers()
+      for solver in currentQuestion.solvers
+        robot.brain.data.quizzfr_score[solver] ||= 0
+        robot.brain.data.quizzfr_score[solver] += 1
       currentQuestion = null
     , time * 1000
 
@@ -60,3 +67,6 @@ module.exports = (robot) ->
     catch error
       console.log('Unable to read file', error) unless error.code is 'ENOENT'
     setQuiz(msg, _.sample(quizz), 30)
+
+  robot.respond /SCORE$/i, (msg) ->
+    robot.messageRoom msg.message.room, JSON.stringify(robot.brain.data.quizzfr_score)
