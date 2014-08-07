@@ -1,6 +1,6 @@
 {
   "name": "hubot-quizzfr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "French quizz",
   "main": "./lib/index.coffee",
   "author": "Laurent Arnoud",
