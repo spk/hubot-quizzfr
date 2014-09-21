@@ -1,6 +1,7 @@
 # Hubot Quizz French
 
 > hubot: quizzfr
+
 > hubot: score
 
 ## Install
